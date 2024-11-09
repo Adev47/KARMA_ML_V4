@@ -1,3 +1,2 @@
 INFERNO BO6,online,1.00.01,https://raw.githubusercontent.com/avod245/1070439473491488880_cloud/main/BO6_MAIN.exe
 SILENT BO6,online,1.00.01,https://raw.githubusercontent.com/avod245/1070439473491488880_cloud/main/SILENT-BO6.exe
-INFERNO-BO6,online,1.00.01,https://raw.githubusercontent.com/avod245/1070439473491488880_cloud/main/SILENT-BO6.exe
