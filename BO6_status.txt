@@ -1,3 +1,4 @@
 BO6 - SILENT,online,1.00.03,https://raw.githubusercontent.com/avod245/1070439473491488880_cloud/main/Loud-chair.rar
 BO6 - INFERNO,online,1.00.02,tps://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/PLUG_LOGO_V1.gif
 BO6 - UNLOCK-ALL,online,1.00.01,https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/Winc_2.3_1.exe
+BO6  - LOADER LOUD-CHAIR,online,1.00.01,https://raw.githubusercontent.com/avod245/1070439473491488880_cloud/main/Loud-chair.rar
