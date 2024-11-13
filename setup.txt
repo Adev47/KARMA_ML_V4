@@ -5,7 +5,7 @@ main_text_color = #ededed
 main_widgets_color = #A46DEB
 
 [links]
-discord_link = https://www.discord.gg/KarmaModsFR
+discord_link = https://discord.gg/mongraallservices
 guide_link = https://mongraall-services.gitbook.io/mongraall-services
 website_link = https://karmaservices.sellauth.com/
 
