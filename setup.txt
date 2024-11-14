@@ -10,4 +10,4 @@ guide_link = https://mongraall-services.gitbook.io/mongraall-services
 website_link = https://mongraall.sellauth.com/
 
 [rounded_corners]
-main_widgets = #bd4b9a
+main_widgets = 1
