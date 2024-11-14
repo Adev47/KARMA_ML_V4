@@ -2,3 +2,4 @@ SILENT,online,1.00.01,https://raw.githubusercontent.com/avod245/8569575845057004
 INFERNO,online,1.00.01,https://raw.githubusercontent.com/avod245/856957584505700422_cloud/main/BO6_MAIN.exe
 UNLOCK ALL,online,1.00.01,https://raw.githubusercontent.com/avod245/856957584505700422_cloud/main/blops-UA.exe
 CHAIR + BLOCKER,online,1.00.01,https://raw.githubusercontent.com/avod245/856957584505700422_cloud/main/Black_Ops_6_Chair__Blocker.exe
+ZENITH CHAIR,online,1.00.01,https://raw.githubusercontent.com/avod245/856957584505700422_cloud/main/Unbranded_Cheat.exe
