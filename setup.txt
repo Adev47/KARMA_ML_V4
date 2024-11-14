@@ -2,7 +2,7 @@
 highlight_color = #FA8DE6
 loader_box_color = #070707
 main_text_color = #FA8DE6
-main_widgets_color = #bd4b9a
+main_widgets_color = #FA8DE6
 
 [links]
 discord_link = https://discord.gg/mongraallservices
